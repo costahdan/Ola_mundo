@@ -1,2 +1,2 @@
-# Ola_mundo
- primeiro repositório curso GitHub
+# Olá, Mundo!
+ primeiro repositório do curso GitHub
