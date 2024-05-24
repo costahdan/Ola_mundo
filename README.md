@@ -1,2 +1,2 @@
 # Olá, Mundo!
- Primeiro repositório do curso GitHub
+ Primeiro repositório do curso GitHub (Guanabara)
